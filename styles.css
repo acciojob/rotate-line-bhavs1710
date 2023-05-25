@@ -3,11 +3,12 @@
     width:200px;
     height:2px;
     animation:rotate 1s linear infinite;
-    background-color: #0e0d0d;
+    background-color: rgb(0,0,0);
 	position:absolute;
 }
 .container{
     width:500px;
+	position:relative;
     height:500px;
     display:flex;
     justify-content: center;
