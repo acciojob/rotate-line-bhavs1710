@@ -4,6 +4,7 @@
     height:2px;
     animation:rotate 1s linear infinite;
     background-color: #0e0d0d;
+	position:absolute;
 }
 .container{
     width:500px;
